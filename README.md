@@ -1,6 +1,6 @@
 # Lern-Periode-11
 
-DevOps and Mobile-Application Modules
+- DevOps and Mobile-Application Modules -
 
 ## Grob-Planung
 
