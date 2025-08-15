@@ -13,3 +13,10 @@ DevOps and Mobile-Application Modules
 
 ✍ In dieser Session bin ich so davon ausgegangen, dass ich nur noch einen kleinen Teil für das nächste Mal zum Thema Schach machen muss. Ein grosses Problem steht jedoch hervor. Wahrscheinlich wird mein Code nicht so rauskommen wie ich es mir erwünscht habe, da es nur noch Probleme bei den einzelnen Spielfiguren gibt. Als ich versucht habe ein Spiel zu spielen, sind mir dabei Fehler wie; Der König bewegt sich wie das Pferd usw. Das muss noch unbedingt geändert werden. Und das andere war, dass ich eine weitere Bewerbung verschickt habe. Ich bin normal wie bei der ersten Bewerbung vorgegangen: Im Internet gesucht und ganz normal eine offene Stelle drauf los beworben. (112 Wörter)
 
+## Für den 22.8.2025
+
+- [ ] Schach Spiel fertig entwickeln
+- [ ] Mobile-Applikation mit .NET MAUI
+- [ ] Mobile-Applikation mit .NET MAUI
+- [ ] Modul 324 weitere Aufgaben lösen (DevOps)
+
