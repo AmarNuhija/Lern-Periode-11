@@ -20,3 +20,8 @@ DevOps and Mobile-Application Modules
 - [x] Mobile-Applikation mit .NET MAUI
 - [ ] Modul 324 weitere Aufgaben lösen (DevOps)
 
+## 22.8.2025
+## Leit-Satz
+
+✍ Diese Session war wieder ein bisschen anstrengender da ich heute richtig entschieden habe, was für ein Projekt icb nehme für das Mobile-App Modul. Ich habe mich dafür entschieden, weil ich denke das man aus so einer einfachen Applikation viel machen kann und vor allem alle Handlungsziele gut bis sehr gut abschliessen kann.
+
