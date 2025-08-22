@@ -15,8 +15,8 @@ DevOps and Mobile-Application Modules
 
 ## Für den 22.8.2025
 
-- [ ] Schach Spiel fertig entwickeln
-- [ ] Mobile-Applikation mit .NET MAUI
-- [ ] Mobile-Applikation mit .NET MAUI
+- [x] Schach Spiel weiter entwickeln
+- [x] Mobile-Applikation mit .NET MAUI
+- [x] Mobile-Applikation mit .NET MAUI
 - [ ] Modul 324 weitere Aufgaben lösen (DevOps)
 
