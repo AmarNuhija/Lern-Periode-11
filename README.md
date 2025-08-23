@@ -23,5 +23,12 @@ DevOps and Mobile-Application Modules
 ## 22.8.2025
 ## Leit-Satz
 
-✍ Diese Session war wieder ein bisschen anstrengender da ich heute richtig entschieden habe, was für ein Projekt icb nehme für das Mobile-App Modul. Ich habe mich dafür entschieden, weil ich denke das man aus so einer einfachen Applikation viel machen kann und vor allem alle Handlungsziele gut bis sehr gut abschliessen kann.
+✍ Diese Session war wieder ein bisschen anstrengender da ich heute entschieden habe, was für ein Projekt icb nehme für das Mobile-App Modul. Ich habe mich für einen Taschenrechner entschieden, weil ich denke das man aus so einer einfachen Applikation viel machen kann und vor allem alle Handlungsziele gut bis sehr gut abschliessen kann. Dazu habe ich auch Bewerbungen angeschaut und auch bis zu 2 verschickt. Beim Schach Spiel kommen nur noch ein paar feinschliffe vor und dann bin ich damit auch fertig. (82 Wörter)
+
+## Für den 29.8.2025
+
+- [ ] Schach Spiel FERTIG entwickeln
+- [ ] Mobile-Applikation mit .NET Maui
+- [ ] Mobile-Applikation mit .NET Maui
+- [ ] Modul 324 weitere Aufgaben lösen (DevOps)
 
